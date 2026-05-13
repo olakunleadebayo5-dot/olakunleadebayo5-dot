@@ -2,7 +2,7 @@
 
 # Hi, I’m Samuel Adebayo 👋
 
-I’m a Statistics student and Data Analyst.  
+I’m a Statistics student and BI/Data Analyst.  
 I love collecting, exploring data, finding patterns, and turning numbers into actionable insights.  
 
 ## 🛠 Skills & Tools
